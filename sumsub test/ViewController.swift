@@ -10,7 +10,6 @@ import IdensicMobileSDK
 import CryptoKit
 import CommonCrypto
 
-
 class ViewController: UIViewController {
     
     let backend = YourBackend()
